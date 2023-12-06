@@ -1,0 +1,5 @@
+Rotation Matrices and animations with Python.
+
+Requirements:
+pygame
+numpy
